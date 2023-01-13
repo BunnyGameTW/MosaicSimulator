@@ -1,4 +1,4 @@
-# Mosaic
+# MosaicSimulator
 Introduction: You are the video editor, and you need to blur and bleep out special words  
 Instructions: 
 1. Mouse wheel to switch mosaic type
